@@ -14,14 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfed0af2-4afa-4a41-aed2-483a614367a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/grrs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +76,7 @@
       <updated>1598751851626</updated>
       <workItem from="1598751852688" duration="4067000" />
       <workItem from="1598872339620" duration="1140000" />
+      <workItem from="1599844025573" duration="2555000" />
     </task>
     <servers />
   </component>
@@ -107,29 +104,29 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="743" y="312" width="424" height="482" key="FileChooserDialogImpl/0.28.1920.1052/1920.118.1366.768@0.28.1920.1052" timestamp="1598873405705" />
-    <state width="633" height="246" key="GridCell.Tab.0.bottom" timestamp="1598753449989">
+    <state width="633" height="246" key="GridCell.Tab.0.bottom" timestamp="1599846022522">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="633" height="246" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1598753449989" />
-    <state width="633" height="246" key="GridCell.Tab.0.center" timestamp="1598753449985">
+    <state width="633" height="246" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1599846022522" />
+    <state width="633" height="246" key="GridCell.Tab.0.center" timestamp="1599846022520">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="633" height="246" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1598753449985" />
-    <state width="633" height="246" key="GridCell.Tab.0.left" timestamp="1598753449980">
+    <state width="633" height="246" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1599846022520" />
+    <state width="633" height="246" key="GridCell.Tab.0.left" timestamp="1599846022517">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="633" height="246" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1598753449980" />
-    <state width="633" height="246" key="GridCell.Tab.0.right" timestamp="1598753449988">
+    <state width="633" height="246" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1599846022517" />
+    <state width="633" height="246" key="GridCell.Tab.0.right" timestamp="1599846022521">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="633" height="246" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1598753449988" />
+    <state width="633" height="246" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1599846022521" />
     <state x="803" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598754785915">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="803" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1366.740@0.28.1366.740" timestamp="1598754785915" />
-    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598753312289">
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599844041804">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1598753312289" />
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1599844041804" />
   </component>
 </project>
